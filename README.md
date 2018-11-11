@@ -14,8 +14,8 @@ Download/clone the application so you can run it on your computer!
 * This application is a CLI using 2 js files. 1 for customers and  1 for managers.
 
     * Customers.  
-               Once you start interacting with the application, it will show you a table with all items available on bamazon.  
-           1.  From there you can select which item you are interested on buying and also see the product's id,name, department, price                   and stock quantity.  
+               Once you start interacting with the application, it will show you a table with all items available on bamazon:
+           1. From there you can select which item you are interested on buying and also see the product's id,name, department, price                   and stock quantity.  
            2. It will then ask you which Item you would like to buy by using it's ID.  
            3. Then you can select how many units you would like to buy.  
            4. The database will then be updated and the app will show you your total and you can also go back to see the table if you                 intend to purchase again.  
