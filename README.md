@@ -14,13 +14,20 @@ Download/clone the application so you can run it on your computer!
 * This application is a CLI using 2 js files. 1 for customers and  1 for managers.
 
     * Customers.  
-               Once you start interacting with the application, it will show you a table with all items available on bamazon:
-               ![alt text](/customer1.png)
+               Once you start interacting with the application, it will show you a table with all items available on bamazon:  
+
+        ![alt text](/customer1.png)
                
-           1. From there you can select which item you are interested on buying and also see the product's id,name, department, price                   and stock quantity.  
-           2. It will then ask you which Item you would like to buy by using it's ID.  
-           3. Then you can select how many units you would like to buy.  
-           4. The database will then be updated and the app will show you your total and you can also go back to see the table if you                 intend to purchase again.  
+        1. From there you can select which item you are interested on buying and also see the product's id,name, department, price and stock quantity.  
+        2. It will then ask you which Item you would like to buy by using it's ID.  
+        3. Then you can select how many units you would like to buy.  
+        4. The database will then be updated and the app will show you your total and you can also go back to see the table if you intend to purchase again.  
+
+                    
+        ![alt text](/customer2.png)
+
+
+
 
 
     * Managers. 
@@ -30,6 +37,10 @@ Download/clone the application so you can run it on your computer!
         3. Add to inventory. On this option you can add more units to whichever item you want. Specially if you are running out of them.
         4. Add new product. This option allows you to add one more product. The system will ask you for the details and the database                  will be automatically updated.        
 
+
+![alt text](/Manager2.png)
+![alt text](/Manager3.png)
+![alt text](/Manager4.png)
 
     * Supervisor. On development.
     
