@@ -5,8 +5,8 @@ This is a node.js application that doesn't executes on the browser.
 Download/clone the application so you can run it on your computer!
 
 
-<a href="https://lugof.github.io/liri-node-app/">Link to Readme File</a>   
-<a href="https://github.com/lugof/liri-node-app">Link to repository</a>   
+<a href="https://github.com/lugof/bamazon/blob/master/README.md">Link to Readme File</a>   
+<a href="https://github.com/lugof/bamazon">Link to repository</a>   
 
 
 ## Bamazon application:
