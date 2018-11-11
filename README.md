@@ -15,6 +15,8 @@ Download/clone the application so you can run it on your computer!
 
     * Customers.  
                Once you start interacting with the application, it will show you a table with all items available on bamazon:
+               ![alt text](/customer1.png)
+               
            1. From there you can select which item you are interested on buying and also see the product's id,name, department, price                   and stock quantity.  
            2. It will then ask you which Item you would like to buy by using it's ID.  
            3. Then you can select how many units you would like to buy.  
